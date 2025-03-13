@@ -1,3 +1,4 @@
+package ModelagemUML;
 import java.util.Random;
 
 public class AparelhoTelefonico {

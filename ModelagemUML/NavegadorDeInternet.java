@@ -1,3 +1,4 @@
+package ModelagemUML;
 public class NavegadorDeInternet {
     private byte aba = 0;
     private byte quantidadeAbas = 0;

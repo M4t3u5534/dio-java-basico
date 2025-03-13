@@ -1,3 +1,4 @@
+package ModelagemUML;
 public class ReprodutorMusical {
     private int musicaSelecionada = 0;
     public String Tocar(){
